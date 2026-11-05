@@ -4,6 +4,8 @@ A Python and Jupyter Notebook research project exploring how quantum-state ampli
 
 The project uses **Qiskit**, **NumPy**, and **Matplotlib** to construct quantum circuits, simulate quantum states, generate fractal visualizations, and compare simulation results with measurements obtained from IBM Quantum hardware.
 
+Julia Set Fractals are complex geometric patterns generated using mathematical equations. They are part of fractal geometry, a branch of mathematics that studies intricate shapes and patterns.
+
 ## Features
 
 - Interactive quantum circuit construction using Qiskit
